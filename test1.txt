@@ -1,0 +1,10 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is 2E6E-4CF6
+
+ Directory of F:\DataBackUP\D_Drive\Task of Year 2018\MyProjectGitHub
+
+27-01-2018  15:13    <DIR>          .
+27-01-2018  15:13    <DIR>          ..
+27-01-2018  15:13                 0 test1.xtxt
+               1 File(s)              0 bytes
+               2 Dir(s)  196,980,625,408 bytes free
